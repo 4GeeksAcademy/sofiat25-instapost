@@ -1,31 +1,31 @@
 
 .container{
-    width:600px;
-    height:60px;
-    display:flexbox;
+    display:inline-block;
     margin-left: 30%;
+   
 }
 .header{
     display: flex;
   margin:2%;
-  padding:3%
+  padding:1%;
+  width:580;
  
 }
 .dots{
     float:right;
-    margin-left: 75%;
+    margin-left: 80%;
 }
 .likes{
    
-   
+   width:580px;
     padding:2%
 }
 .caption{
-
+    width:580px;
    padding:2%;
 }
 .botones{
-
+    width:580px;
     padding:2%;
     display:flex;
   
